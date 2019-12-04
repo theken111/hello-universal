@@ -1,2 +1,2 @@
-# hello-university
+# hello-universal
 different example
